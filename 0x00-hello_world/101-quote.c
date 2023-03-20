@@ -1,15 +1,13 @@
 #include<stdio.h>
 #include<uinstd.h>
-
 /**
- * main - This program prints the assembly code 
  *
- * Returm: 1 
+ * main -  
+ *
+ * Return: 0 if 
  */
-
- int main(void)
- {
- 	fputs("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", fp);
-	return (0);
-
- }
+int main(void)
+{
+	write(2, "and that piece of art is useful\"- Dora Korpar, 2015-10-19\n" ,59);
+	return (1);
+}
