@@ -3,7 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - This program determines if a specified random number is positive, negative or a zero
+ * main - This program determines if a specified
+ *
+ * random number is positive, negative or zero
  *
  * Return: 0 upon successful iteration
  */
@@ -25,5 +27,6 @@ int main(void)
 	{
 		printf("%d is zero", n);
 	}
+	printf("\n");
 	return (0);
 }
