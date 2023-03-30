@@ -1,0 +1,1 @@
+This the 0x06-pointers_arrays_strings task of the Alx low level programming
