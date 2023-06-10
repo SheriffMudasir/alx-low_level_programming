@@ -1,5 +1,3 @@
-0x06-pointers_arrays_strings/      0x0D-preprocessor/
-
 #include "main.h"
 
 /**
